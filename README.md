@@ -2,6 +2,9 @@
 
 This is the frontend of simple shopping site for coding challenge.
 
+# UI
+https://www.figma.com/file/FP6nTXF1nqA9J5QFk0ieHi/DEMO-UI-TEST?node-id=0%3A1
+
 ## Installation
 
 1. Clone the repository:
